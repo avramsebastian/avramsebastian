@@ -8,4 +8,4 @@
 </p>
 <p>Currently, I'm pursuing a <b>Bachelor of Science in Informatics</b> at <b>Transylvania University, Faculty of Mathematics and Informatics</b>.</p> 
 
-![Sebi's GitHub stats](https://github-readme-stats.vercel.app/api?username=avramsebastian&include_all_commits=true&theme=aura)
+![Sebi's GitHub stats](https://github-readme-stats2-neon.vercel.app/api?username=avramsebastian&theme=aura&show_icons=true&include_all_commits=true)
