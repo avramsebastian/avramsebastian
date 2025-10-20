@@ -1,6 +1,7 @@
 # 👋 Hi, I'm Sebi!
 
-<p>I'm a passionate <b>software developer</b>, exploring machine learning algorithms. I enjoy coding in:</p>
+<p><b>Computer science</b> student with a strong foundation in algorithmic thinking and modern development practices.
+Quick to adapt and eager to learn new technologies while working effectively in team environments. I enjoy working with: </p>
 <p align="left"> 
    <img src="images/c.svg" alt="c" width="40" height="40"/> 
    <img src="images/cplusplus.svg" alt="cplusplus" width="40" height="40"/> 
